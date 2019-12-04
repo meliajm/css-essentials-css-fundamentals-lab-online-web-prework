@@ -13,9 +13,14 @@ nav a {
 img {
   font-size: 22px
 }
-featured-property {
+
+section {
   width: 800px
 }
+
+/*featured-property {*/
+/*  width: 800px*/
+/*}*/
 
 /*h1 {*/
 /*  text-align: center;*/
