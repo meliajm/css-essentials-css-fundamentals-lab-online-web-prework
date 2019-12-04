@@ -13,6 +13,9 @@ nav a {
 img {
   font-size: 22px
 }
+p#featured-property {
+  width: 800px
+}
 
 /*h1 {*/
 /*  text-align: center;*/
