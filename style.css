@@ -6,9 +6,11 @@ body {
 }
 
 nav a{
-  background: grey;
+  background: blue;
   padding: 10px;
 }
+
+
 
 /*h1 {*/
 /*  text-align: center;*/
