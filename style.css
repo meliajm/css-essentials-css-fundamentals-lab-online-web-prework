@@ -3,6 +3,11 @@ body {
   height: 100%;
   margin: 0;
   text-align: center;
+
+  #featured-property {
+  /*text-align: center;*/
+  width: 800px;
+}
 }
 
 nav a {
@@ -15,10 +20,7 @@ img {
   font-size: 22px;
 }
 
-#featured-property {
-  /*text-align: center;*/
-  width: 800px;
-}
+
 
 /*featured-property {*/
 /*  width: 800px*/
