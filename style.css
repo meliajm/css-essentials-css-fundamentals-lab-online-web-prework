@@ -2,4 +2,45 @@ body {
   width: 100%;
   height: 100%;
   margin: 0;
+  text-align: center;
+
+  
 }
+
+nav a {
+  background: teal; 
+  padding: 10px;
+}
+
+img {
+  /*width: 800px;*/
+  font-size: 22px;
+}
+
+/*#featured-property {*/
+  /*text-align: center;*/
+/*  margin: 200px;*/
+/*}*/
+
+#details {
+  display: block;
+  float: left;
+}
+
+
+/*featured-property {*/
+/*  width: 800px*/
+/*}*/
+
+/*h1 {*/
+/*  text-align: center;*/
+  /*color: red;*/
+/*}*/
+
+/*.featured-property {*/
+    /*display: block;*/
+    /*margin-left: auto;*/
+    /*margin-right: auto; */
+  /*text-align: center;*/
+}
+
