@@ -11,12 +11,12 @@ nav a {
 }
 
 img {
-  width: 800px;
+  /*width: 800px;*/
   font-size: 22px;
 }
 
-section {
-  text-align: center;
+p#featured-property {
+  /*text-align: center;*/
   width: 800px;
 }
 
