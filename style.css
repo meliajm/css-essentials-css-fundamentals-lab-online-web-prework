@@ -23,7 +23,8 @@ img {
 }
 
 #detail {
-  
+  display: block
+  float: left
 }
 
 
